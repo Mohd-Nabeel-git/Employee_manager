@@ -3,6 +3,8 @@
 A modern and minimal **full-stack Employee Management Application** built with **MERN stack** and **ShadCN UI**.  
 It allows an **admin** to register, log in, and manage employees securely with JWT-based authentication.
 
+🔗 **Live Demo:** [Employee Manager](https://employee-manager-seven.vercel.app/)
+
 ## 🚀 Features
 - Admin Registration & Login
 - JWT Authentication & Protected Routes
@@ -22,7 +24,7 @@ Backend/
   models/
   routes/
   main.js
-Frontend/
+/
   src/
     components/
     pages/
@@ -54,6 +56,5 @@ Frontend/
    ```
 5. Run the frontend:
    ```bash
-   cd Frontend
    npm run dev
    ```
